@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [github.com/MohanS-2009](github.com/MohanS-2009)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/mohan2009](www.linkedin.com/in/mohan2009)
-
 - 💬 Ask me about **Data Analytics, Business Intelligence, SQL, Power BI, Excel, and Python.**
 
 - 📫 How to reach me **mohan.s.agnivamsha@gmail.com**
