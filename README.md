@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohan S</h1>
 <h3 align="center">✨ Data Analyst | Business Analyst | Business Intelligence Analyst skilled in 🧠 SQL, 📊 Power BI, 🐍 Python, and 📈 Microsoft Excel - Transforming complex data into actionable business insights.</h3>
 
-- 🔭 I’m currently working on **Building interactive dashboards and analytical models to support business decision-making.**
+- 🔭 I’m currently working on **Building interactive dashboards and analytical models to support business decision-making**
 
 - 🌱 I’m currently learning **Machine Learning for Business Analytics | Advanced SQL Optimization | Power BI AI Visuals**
 
